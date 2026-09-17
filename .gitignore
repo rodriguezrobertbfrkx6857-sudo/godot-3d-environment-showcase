@@ -1,0 +1,8 @@
+.godot/
+*.import
+export/
+build/
+.DS_Store
+Thumbs.db
+.vscode/
+
