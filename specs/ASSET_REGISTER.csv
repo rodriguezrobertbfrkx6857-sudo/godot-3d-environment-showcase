@@ -1,0 +1,12 @@
+asset,quantity,production_method,importance
+Segmented shrine arch,1,Blender modular construction,high
+Stepped stone platform,1,Blender,high
+Floating crystal,1,Blender,high
+Rune stone pillar,2,Blender or Tripo and cleanup,medium
+Hero twisting oak,1,Blender,high
+Perimeter tree,9,Blender reused variants,high
+Rock cluster,12,Blender or Tripo,medium
+Stone path slab,18,Blender modular,high
+Ferns and grasses,20-40,Blender instanced,medium
+Flower and mushroom clusters,10-20,Blender,medium
+Collectible orb,2,Blender with shader,high

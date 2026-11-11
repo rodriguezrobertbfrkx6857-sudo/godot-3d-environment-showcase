@@ -1,0 +1,7 @@
+Your task is to actually build a complete, editable 3D scene called FOREST SPIRIT SHRINE using the provided English reference package.
+
+Read README.md, specs/scene_manifest.json, references/MASTER_TOPDOWN.svg, all references/views/*.svg, references/SHRINE_TURNAROUND.svg, references/STYLE_DIRECTION.svg, and docs/CLAUDE_MASTER_BUILD_INSTRUCTION_EN.md.
+
+Do not create another concept image as a substitute for 3D work. Build a coherent original stylized fantasy forest clearing in Blender, save a real .blend, export game-ready .glb models for Godot 4 Compatibility, and render actual images from the eight camera directions in ONE Blender scene. Use Tripo only for isolated props if available. Respect scene coordinates and avoid mixing this project with other repositories.
+
+The user has an integrated-GPU laptop with 16GB RAM. Prioritize visual polish and low hardware cost. Start implementation now, verify all outputs, and clearly report what succeeded, what failed, and the exact resulting files.

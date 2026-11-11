@@ -1,0 +1,167 @@
+{
+  "title": "Forest Spirit Shrine",
+  "units": "meters",
+  "axes": {
+    "x": "east",
+    "y": "up",
+    "z": "south",
+    "north": "negative Z"
+  },
+  "site_size": [
+    24,
+    24
+  ],
+  "walkable_diameter": 18,
+  "anchors": {
+    "entrance": [
+      0,
+      0,
+      9.5
+    ],
+    "shrine": [
+      0,
+      0,
+      -4.07
+    ],
+    "stone_ring": [
+      0,
+      1.89,
+      -4.45
+    ],
+    "ring_outer_width": 4.8,
+    "ring_top_height": 4.29,
+    "platform_diameter": 6.6,
+    "hero_tree_west": [
+      -6.6,
+      0,
+      -3.1
+    ],
+    "tree_east": [
+      6.8,
+      0,
+      -3.4
+    ],
+    "rune_west": [
+      -4.15,
+      0,
+      -2.6
+    ],
+    "rune_east": [
+      4.1,
+      0,
+      -3
+    ],
+    "orb_west": [
+      -4.45,
+      1.07,
+      2.4
+    ],
+    "orb_east": [
+      4.7,
+      1.07,
+      1.35
+    ]
+  },
+  "trees": [
+    [
+      -6.6,
+      -3.1,
+      1.24
+    ],
+    [
+      6.8,
+      -3.4,
+      0.94
+    ],
+    [
+      -10,
+      -8,
+      1.05
+    ],
+    [
+      -6.2,
+      -9.1,
+      0.95
+    ],
+    [
+      2.7,
+      -10.2,
+      0.88
+    ],
+    [
+      8.7,
+      -8.5,
+      0.95
+    ],
+    [
+      -10.5,
+      3.8,
+      0.9
+    ],
+    [
+      10.5,
+      4,
+      0.88
+    ],
+    [
+      -8,
+      9.1,
+      0.81
+    ],
+    [
+      6.4,
+      9.5,
+      0.85
+    ]
+  ],
+  "cameras": {
+    "south": [
+      0,
+      3.7,
+      14.6
+    ],
+    "north": [
+      0,
+      13,
+      -21
+    ],
+    "east": [
+      20,
+      13,
+      -2.6
+    ],
+    "west": [
+      -20,
+      13,
+      -2.6
+    ],
+    "southeast": [
+      16,
+      11,
+      15
+    ],
+    "southwest": [
+      -16,
+      11,
+      15
+    ],
+    "northeast": [
+      16,
+      12,
+      -16.5
+    ],
+    "northwest": [
+      -16,
+      12,
+      -16.5
+    ]
+  },
+  "target": [
+    0,
+    1.3,
+    -3.5
+  ],
+  "target_hardware": "Windows integrated GPU / 16GB RAM",
+  "target_renderer": "Godot 4 Compatibility",
+  "initial_performance_goal": "1280x720 30 FPS, measure rather than assume"
+}
