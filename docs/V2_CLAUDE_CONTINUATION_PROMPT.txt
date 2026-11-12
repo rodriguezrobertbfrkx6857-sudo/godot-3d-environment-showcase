@@ -1,0 +1,36 @@
+I am providing the existing Forest Spirit Shrine 3D project and an English-only GitHub V2 reference package.
+
+Project repository branch:
+https://github.com/rodriguezrobertbfrkx6857-sudo/godot-3d-environment-showcase/tree/forest-spirit-shrine-v2-english-optimization
+
+First extract and review all provided archives. Read V2_START_HERE.md, docs/V2_REBUILD_GUIDE.md, docs/V2_ACCEPTANCE_CHECKLIST.md, docs/CLAUDE_V2_ART_REBUILD_EN.md, specs/scene_manifest.json, the directional reference sheets, and the original project scripts and GLB files.
+
+Your assignment is to CONTINUE and substantially IMPROVE the existing project, not start an unrelated scene, not produce only new prompts, and not merely apply subdivision or stronger glow.
+
+CURRENT DEFECTS:
+- Tree canopies look like large smooth inflated spheres.
+- The shrine arch looks like repetitive geometric building blocks without believable surface treatment.
+- Terrain is sparse and flat, with near-uniform green ground and little undergrowth.
+- Stones and path modules are repetitive and too regular.
+- Composition and lighting do not approach the intended polished animated-film fantasy forest.
+- The previous package did not contain a verified editable Blender .blend master.
+
+WORK STAGES:
+A. Import existing GLB assets into Blender, inspect topology, textures, materials, object names and available source scripts, and preserve the correct scene coordinates and gameplay anchors.
+B. Rebuild a 5–8 meter HERO BEAUTY SLICE first: an expressive twisted oak with visible branches and roots, a carved mossy segmented stone shrine, and lush layered terrain with irregular path stones. Avoid smooth balloon foliage and uniformly scattered grass.
+C. Create actual Blender materials and a convincing warm-daylight composition with cooler shadow fill and restrained cyan magical accent lighting.
+D. Render player-eye-level south and southeast views (camera approximately 1.7m high), plus real closeups of the oak, shrine, ground and path, all from the SAME Blender scene. Compare against the original painted high-resolution target PNG if provided.
+E. After the hero slice is genuinely polished, extend the same asset quality throughout the compact forest without breaking coordinates, paths, collision clearance, or reusable modular assembly.
+F. Generate verified editable .blend source, modular .glb exports, textures, rendered directional views, asset inventory, Godot Compatibility import instructions, and a factual QA report.
+
+DELIVERY:
+Create a single ZIP named Forest_Spirit_Shrine_V2_Complete_Project.zip containing the entire actual production project and all dependencies. Provide a directly downloadable link or, if available, a real GitHub Release asset URL. Check the archive's integrity and verify the Blender master can be reopened.
+
+IMPORTANT:
+- The GitHub branch ZIP contains English reference diagrams and instructions, not the original GLB binaries; use the separately provided original Claude project archive for actual starting assets.
+- All filenames, documentation and communication must be in English.
+- Optimize for integrated graphics and 16GB RAM, using conservative foliage overdraw, repeatable geometry and reasonable textures; never claim measured FPS without executing a real test.
+- Do not claim Blender ran or the .blend reopens unless you genuinely ran and verified it.
+- Prefer an excellent real in-engine composition to a higher polygon count with weak design.
+
+Start the actual Blender rebuild immediately and make the project materially better.
